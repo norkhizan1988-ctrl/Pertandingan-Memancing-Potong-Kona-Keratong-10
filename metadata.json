@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pertandingan Memancing Keli Keratong",
+  "description": "Sistem Pendaftaran Pancang, Syarat Pertandingan, dan Paparan Ranking Terkini Pertandingan Memancing Keli Kolam Palmview Keratong 8 & Potong Kona Keratong 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
